@@ -32,5 +32,5 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 
 ## Contact Me
 
-- Email: ksurabhiwork@gmail.com or
-- Linkedin: https://www.linkedin.com/in/surabhi-kumari-30020a19b/
+- Email: [ksurabhiwork@gmail.com](mailto:ksurabhiwork@gmail.com)
+- Linkedin: [https://www.linkedin.com/in/surabhi-kumari-30020a19b/](https://www.linkedin.com/in/surabhi-kumari-30020a19b/)
