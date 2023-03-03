@@ -10,7 +10,8 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 - Certified in SAP
 - HubSpot for CRM
 - Microsoft Office (Word, Powerpoint, Presentation, Excel)
-- Canva
+- Design Thinking
+- Customer Experience
 - Coursera Project Network certification on Brand Marketing and SEO tool using Wix
 
 
