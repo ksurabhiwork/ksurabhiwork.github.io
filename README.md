@@ -16,8 +16,6 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 
 ## Projects
 
-[label](http://example.com)
-
 ### Project 1
 
 - Description: As a part of the Commerce Union of my Undergrad College I have had got the Opportunity to manage the Instagram handle of the Commerce Department.
