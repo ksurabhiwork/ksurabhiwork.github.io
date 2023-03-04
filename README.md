@@ -23,13 +23,19 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1o_N8qpjoTYjBnL4hdFIrRm6fOrSW_q1z?usp=sharing](https://drive.google.com/drive/folders/1o_N8qpjoTYjBnL4hdFIrRm6fOrSW_q1z?usp=sharing) 
 - Technologies used: User Testing, Google trends, Semrush Persona, Canva, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
 
-### 2. Project : Engagement Enhacement of [https://www.instagram.com/hcm_jnc/](https://www.instagram.com/hcm_jnc/)  
+### 2. Project : Advertising Promotion and Public Relations
+
+- Description - We are supposed to research the current marketplace and trends for Heinz Ketchup, analyze the brand itself, and review the main competitors as outlined in the Client Brief.  We delivered a brand research report, complimented by a creative strategy proposal, based on this proposal, we will develop the final creative concepts. Finally, we will be presenting a comprehensive pitch to the client, which will explain the proposed solution to their communication challenge and showcase examples of the creative concepts.
+#### The following link shows the example of my work: [https://drive.google.com/drive/folders/1Y9bOa5sp_OrzcnS4weJVAI84hJ4F_Jvx?usp=sharing] (https://drive.google.com/drive/folders/1Y9bOa5sp_OrzcnS4weJVAI84hJ4F_Jvx?usp=sharing)
+- Technologies used: PRIZM environic analystics, Google trends, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
+
+### 3. Project : Engagement Enhacement of [https://www.instagram.com/hcm_jnc/](https://www.instagram.com/hcm_jnc/)  
 
 - Description: As a part of the Commerce Union of my Undergrad College I have had got the Opportunity to manage the Instagram handle of the Commerce Department.
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1_mj-9OnVTevhjx3O8tk2wHGLqAk3Q228?usp=sharing](https://drive.google.com/drive/folders/1_mj-9OnVTevhjx3O8tk2wHGLqAk3Q228?usp=sharing) 
 - Technologies used: Canva, Wix, Wordpress, Inshot, Adoobe Photoshop Studio, Flimora, and Powerdirector.
 
-### 3. Project : Monthly Newsketter Editorial
+### 4. Project : Monthly Newsketter Editorial
 
 - Description: As an editorial head Vanijiya Vanhini and Sahaya of my Undergrad College, which is the monthly Newsletter and Outreach program conducted by the Jyoti Nivas College Autonomous our work was planning and coordinating content, designed the layout, graphics, and other design elements of the newsletter to make it visually appealing, editing and proofreading the contents, and assigning tasks and deadlines. 
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1SocU8gon8IdASs9Si3sdUXsLqPCOPM8v?usp=sharing](https://drive.google.com/drive/folders/1SocU8gon8IdASs9Si3sdUXsLqPCOPM8v?usp=sharing)
