@@ -17,13 +17,11 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 
 ## Projects
 
-### Project 1
-
 - Description: As a part of the Commerce Union of my Undergrad College I have had got the Opportunity to manage the Instagram handle of the Commerce Department.
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1_mj-9OnVTevhjx3O8tk2wHGLqAk3Q228?usp=sharing](https://drive.google.com/drive/folders/1_mj-9OnVTevhjx3O8tk2wHGLqAk3Q228?usp=sharing) 
 - Technologies used: Canva, Wix, Wordpress, Inshot, Adoobe Photoshop Studio, Flimora, and Powerdirector.
 
-### Project 2
+### Project : Monthly Newsketter Editorial
 
 - Description: As an editorial head Vanijiya Vanhini and Sahaya of my Undergrad College, which is the monthly Newsletter and Outreach program conducted by the Jyoti Nivas College Autonomous our work was planning and coordinating content, designed the layout, graphics, and other design elements of the newsletter to make it visually appealing, editing and proofreading the contents, and assigning tasks and deadlines. 
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1SocU8gon8IdASs9Si3sdUXsLqPCOPM8v?usp=sharing](https://drive.google.com/drive/folders/1SocU8gon8IdASs9Si3sdUXsLqPCOPM8v?usp=sharing)
