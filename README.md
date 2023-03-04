@@ -26,7 +26,7 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 ### 2. Project : Advertising Promotion and Public Relations
 
 - Description - We are supposed to research the current marketplace and trends for Heinz Ketchup, analyze the brand itself, and review the main competitors as outlined in the Client Brief.  We delivered a brand research report, complimented by a creative strategy proposal, based on this proposal, we will develop the final creative concepts. Finally, we will be presenting a comprehensive pitch to the client, which will explain the proposed solution to their communication challenge and showcase examples of the creative concepts. (This is an Ongoing Project)
-#### The following link shows the example of my work: [https://drive.google.com/drive/folders/1Y9bOa5sp_OrzcnS4weJVAI84hJ4F_Jvx?usp=sharing] (https://drive.google.com/drive/folders/1Y9bOa5sp_OrzcnS4weJVAI84hJ4F_Jvx?usp=sharing)
+#### The following link shows the example of my work: [https://drive.google.com/drive/folders/1Y9bOa5sp_OrzcnS4weJVAI84hJ4F_Jvx?usp=sharing](https://drive.google.com/drive/folders/1Y9bOa5sp_OrzcnS4weJVAI84hJ4F_Jvx?usp=sharing)
 - Technologies used: PRIZM environic analystics, Google trends, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
 
 ### 3. Project : Engagement Enhacement of [https://www.instagram.com/hcm_jnc/](https://www.instagram.com/hcm_jnc/)  
