@@ -17,7 +17,7 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 
 ## Projects
 
-###Project : Enhancement of Instagram Engagement of [https://www.instagram.com/hcm_jnc/](https://www.instagram.com/hcm_jnc/)  
+### Project : Enhancement of Instagram Engagement of [https://www.instagram.com/hcm_jnc/](https://www.instagram.com/hcm_jnc/)  
 - Description: As a part of the Commerce Union of my Undergrad College I have had got the Opportunity to manage the Instagram handle of the Commerce Department.
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1_mj-9OnVTevhjx3O8tk2wHGLqAk3Q228?usp=sharing](https://drive.google.com/drive/folders/1_mj-9OnVTevhjx3O8tk2wHGLqAk3Q228?usp=sharing) 
 - Technologies used: Canva, Wix, Wordpress, Inshot, Adoobe Photoshop Studio, Flimora, and Powerdirector.
