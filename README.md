@@ -21,7 +21,7 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 
 - Description: We were asked to choose  a Canadian business that has a well-established website and active social media accounts. Our objective is to develop a digital marketing strategy for this company and thus create a website for the same to enchance the customer experience on the website. (This is an Ongoing Project)
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1o_N8qpjoTYjBnL4hdFIrRm6fOrSW_q1z?usp=sharing](https://drive.google.com/drive/folders/1o_N8qpjoTYjBnL4hdFIrRm6fOrSW_q1z?usp=sharing) 
-- Technologies used: Google trends, Semrush Persona, Canva, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
+- Technologies used: User Testing, Google trends, Semrush Persona, Canva, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
 
 ### Project : Engagement Enhacement of [https://www.instagram.com/hcm_jnc/](https://www.instagram.com/hcm_jnc/)  
 
