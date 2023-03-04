@@ -19,7 +19,7 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 
 ### Project : Digital Customer Experience 
 
-- Description: We were asked to Choose a Canadian Company that has a comprehensive existing website and social presence and thereby asked to create a Digital Marketing Plan for the same.
+- Description: We were asked to Choose  a Canadian business that has a well-established website and active social media accounts. Your objective is to develop a digital marketing strategy for this company and thus create a website for the same. (This is an Ongoing Project)
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1o_N8qpjoTYjBnL4hdFIrRm6fOrSW_q1z?usp=sharing](https://drive.google.com/drive/folders/1o_N8qpjoTYjBnL4hdFIrRm6fOrSW_q1z?usp=sharing) 
 - Technologies used: Google trends, Semrush Persona, Canva, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
 
