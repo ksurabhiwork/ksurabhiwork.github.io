@@ -19,13 +19,13 @@ Hi, I'm Surabhi and I completed my secondary education at Don Bosco Academy. I l
 
 ### 1. Project : Digital Customer Experience 
 
-- Description: We were asked to choose  a Canadian business that has a well-established website and active social media accounts. Our objective is to develop a digital marketing strategy for this company and thus create a website for the same to enchance the customer experience on the website. (This is an Ongoing Project)
+- Description: We were asked to choose  a Canadian business that has a well-established website and active social media accounts. Our objective was to develope various content types and promotions and Redesigned the website with UX and UI enhancements, responsive design, one-click ordering, and SEO tactics, we even created the brand style guide for the brand.
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1o_N8qpjoTYjBnL4hdFIrRm6fOrSW_q1z?usp=sharing](https://drive.google.com/drive/folders/1o_N8qpjoTYjBnL4hdFIrRm6fOrSW_q1z?usp=sharing) 
-- Technologies used: User Testing, Google trends, Semrush Persona, Canva, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
+- Technologies used: User Testing, Google trends,Google Analytics, Semrush Persona, Canva, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
 
 ### 2. Project : Advertising Promotion and Public Relations
 
-- Description - We are supposed to research the current marketplace and trends for Heinz Ketchup, analyze the brand itself, and review the main competitors as outlined in the Client Brief.  We delivered a brand research report, complimented by a creative strategy proposal, based on this proposal, we will develop the final creative concepts. Finally, we will be presenting a comprehensive pitch to the client, which will explain the proposed solution to their communication challenge and showcase examples of the creative concepts. (This is an Ongoing Project)
+- Description - We are supposed to research the current marketplace and trends for Heinz Ketchup, analyze the brand itself, and review the main competitors as outlined in the Client Brief.  We delivered a brand research report, complimented by a creative strategy proposal, based on this proposal, we developed the final creative concepts. Finally, we presented a comprehensive pitch to the client, which explained the proposed solution to their communication challenge and showcase examples of the creative concepts. 
 #### The following link shows the example of my work: [https://drive.google.com/drive/folders/1Y9bOa5sp_OrzcnS4weJVAI84hJ4F_Jvx?usp=sharing](https://drive.google.com/drive/folders/1Y9bOa5sp_OrzcnS4weJVAI84hJ4F_Jvx?usp=sharing)
 - Technologies used: PRIZM environic analystics, Google trends, Similar web, Statista, IBISWorld, and other Blogs, News and Reports on the matter.
 
